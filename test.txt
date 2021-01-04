@@ -2,3 +2,11 @@
 git branch
 创建并转至到lisi分
 git checkout -b lisi
+
+推送到远程
+ git push origin master
+
+检查是否有更新
+git fetch
+查看是否在冲突
+git diff
