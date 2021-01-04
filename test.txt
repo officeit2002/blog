@@ -1,0 +1,4 @@
+分支管理
+git branch
+创建并转至到lisi分
+git checkout -b lisi
